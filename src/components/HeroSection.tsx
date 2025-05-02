@@ -12,17 +12,17 @@ const HeroSection = () => {
     >
       <div className="container text-center text-white">
         <h1 className="text-4xl md:text-6xl font-bold mb-6 animate-fade-in" style={{ animationDelay: '0.2s' }}>
-          Find Your Perfect Property
+          Find Your Dream Home with Dhartiacres
         </h1>
         <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto animate-fade-in" style={{ animationDelay: '0.4s' }}>
           Premium properties in prime locations across Ahmedabad
         </p>
         <a 
-          href="#properties" 
+          href="#contact" 
           className="btn-primary inline-block animate-fade-in" 
           style={{ animationDelay: '0.6s' }}
         >
-          Find Your Dream Home
+          Schedule a Free Consultation
         </a>
       </div>
     </section>
