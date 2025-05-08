@@ -30,9 +30,11 @@ const Header = () => {
     >
       <div className="container flex items-center justify-between">
         <a href="#" className="flex items-center">
-          <h1 className="text-2xl font-bold text-dhartiacres-blue">
-            Dharti<span className="text-dhartiacres-dark">acres</span>
-          </h1>
+          <img 
+            src="/lovable-uploads/f7e751d7-92b0-438a-b23c-403433aeed1f.png" 
+            alt="Dhartiacres Logo" 
+            className="h-10"
+          />
         </a>
 
         {/* Desktop Navigation */}

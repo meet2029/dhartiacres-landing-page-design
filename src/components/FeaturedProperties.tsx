@@ -5,43 +5,43 @@ const FeaturedProperties = () => {
   const properties = [
     {
       id: 1,
-      image: "https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&q=80",
-      title: "Modern Luxury Villa",
-      location: "Bodakdev, Ahmedabad",
-      price: "₹2.5 Cr",
-      bedrooms: 4,
-      bathrooms: 3,
-      area: "3200 sq.ft"
+      image: "/lovable-uploads/8171bc2d-65a5-4a13-b8fd-d73bb5834ea6.png",
+      title: "Nirman Sahwas",
+      location: "Zundal - Adalaj highway",
+      price: "₹75 Lac",
+      bedrooms: 3,
+      bathrooms: 2,
+      area: "2, 2.5, 3 BHK"
     },
     {
       id: 2,
-      image: "https://images.unsplash.com/photo-1493397212122-2b85dda8106b?auto=format&fit=crop&q=80",
-      title: "Riverside Apartment",
-      location: "Sabarmati, Ahmedabad",
-      price: "₹85 Lac",
+      image: "/lovable-uploads/4464d0cc-28fd-4be4-b6e8-5d2be30f7b24.png",
+      title: "Festive O2",
+      location: "New science city, Gota",
+      price: "₹80 Lac",
       bedrooms: 3,
       bathrooms: 2,
-      area: "1800 sq.ft"
+      area: "3BHK Furnished Flats"
     },
     {
       id: 3,
-      image: "https://images.unsplash.com/photo-1524230572899-a752b3835840?auto=format&fit=crop&q=80",
-      title: "Premium Office Space",
-      location: "Prahlad Nagar, Ahmedabad",
-      price: "₹1.8 Cr",
-      bedrooms: 0,
+      image: "/lovable-uploads/a670a608-e088-4556-be2e-d610ee2af801.png",
+      title: "Atlantis Wave",
+      location: "Zundal",
+      price: "₹60 Lac",
+      bedrooms: 2,
       bathrooms: 2,
-      area: "2500 sq.ft"
+      area: "2, 3 BHK"
     },
     {
       id: 4,
-      image: "https://images.unsplash.com/photo-1496307653780-42ee777d4833?auto=format&fit=crop&q=80",
-      title: "Urban High-Rise",
-      location: "SG Highway, Ahmedabad",
-      price: "₹1.2 Cr",
-      bedrooms: 3,
+      image: "/lovable-uploads/56e0dad2-1182-4a6c-ba60-aa8419e467ae.png",
+      title: "Ansh Aradhya Lakeview",
+      location: "Vaishnodevi, Khoraj",
+      price: "₹55 Lac",
+      bedrooms: 2,
       bathrooms: 2,
-      area: "2100 sq.ft"
+      area: "2 BHK"
     }
   ];
 
