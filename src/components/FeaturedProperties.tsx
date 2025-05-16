@@ -1,4 +1,5 @@
 
+import { Link } from "react-router-dom";
 import PropertyCard from "./PropertyCard";
 
 const FeaturedProperties = () => {
@@ -68,9 +69,12 @@ const FeaturedProperties = () => {
         </div>
         
         <div className="mt-12">
-          <a href="#contact" className="btn-primary">
+          <Link 
+            to="/properties" 
+            className="btn-primary"
+          >
             View All Properties
-          </a>
+          </Link>
         </div>
       </div>
     </section>
