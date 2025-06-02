@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - cd /home/crrmbrokerwise/git.crrmbrokerwise.com
+    - git reset --hard HEAD
